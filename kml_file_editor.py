@@ -38,5 +38,5 @@ def edit_kml(file_path):
         file.write(content)
 
 # Path to the KML file
-file_path = r"C:\Users\samir\OneDrive\Masaüstü\PY\1.kml"
+file_path = 'path/to/your/1.kml'
 edit_kml(file_path)
